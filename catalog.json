@@ -1,0 +1,14 @@
+[
+    {
+      "id": "DHL-PoC-DACLP",
+      "name": "DHL-PoC-DACLP",
+      "description": "An example of deploying the whole infrastructure with a VM running a hello-world web-application using NGINX or NodeJS server, monitoring instances with Nagios software and using F5 BIGIP Load Balancer.",
+      "html_url": "https://github.com/Cloudify-PS/DACLP/tree/demo",
+      "zip_url": "https://github.com/Cloudify-PS/DACLP/archive/refs/heads/demo.zip",
+      "readme_url": "https://raw.githubusercontent.com/Cloudify-PS/DACLP/demo/README.md",
+      "main_blueprint": "blueprint.yaml",
+      "image_url": "https://raw.githubusercontent.com/jakubcierlik/daclp-poc-catalog/main/dhl-logo.png",
+      "created_at": "2021-06-09T15:32:19Z",
+      "updated_at": "2021-06-09T15:32:19Z"
+    }
+]
